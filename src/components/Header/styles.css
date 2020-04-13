@@ -1,0 +1,42 @@
+header#main-header {
+    width:100%;
+    height:95px;
+    background: rgba(236, 236, 236, 0);
+    font-size: 18px;
+    font-weight: bold;
+    color: rgb(235, 212, 13);
+    display: flex;
+    justify-content: right;
+    align-items: flex-start;
+    float: bottom;
+    margin-left: 5%;
+}
+img#logo{
+    display: flex;
+    width: 310px;
+    height: 161px;
+}
+img :hover{
+    cursor: pointer;
+
+}
+a.botõesHeader{
+    align-items: flex-start;
+    background-color: transparent;
+    border: none;
+    padding: 7px;
+    height: 53%;
+    width: 10%;
+    background-color: rgba(0, 255, 21, 0);
+    margin-left: 4%;
+    margin-top: 43px;
+    font-size: 100%;
+    text-align: center;
+    color: #fcac11;
+    text-decoration: underline;
+    box-shadow: 5px 0px 10px black;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+    text-decoration: none;
+
+}
